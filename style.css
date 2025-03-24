@@ -12,6 +12,9 @@ th{
     background:black;
     color:white;
 }
+.thetab{
+    overflow:auto;
+}
 
 .btndiv{
         text-align: center;
